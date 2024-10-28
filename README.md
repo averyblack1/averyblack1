@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @averyblack1
-- 👀 I’m interested in ...Learning more about Python and Programming
-- 🌱 I’m currently learning ...Python, Javascript, Development
-- 💞️ I’m looking to collaborate on ...Likely troubleshooting my code!
+- 👋 Hi, I’m Avery Black! (@averyblack1)
+- 💼 I am a Sales Data Analyst at a startup in Chicago. I’m responsible for enhancing operational efficiency, identifying potential revenue streams, and pinpointing areas for improvement through data analysis. My focus is on implementing data-driven decision-making processes to streamline operations and optimize resource allocation. Essentially, I analyze key metrics to help the organization understand where to improve, what areas to target for growth, and where to cut back, ensuring we’re making strategic, informed choices.
+- 👀 I’m interested in ...Data Anlytics, Python Programming and ETL
+- 🌱 I’m currently learning ...Python, Javascript, Web Development
 - 📫 How to reach me ...averyblackmi@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm in a band called Routine Fuss and love playing music, recording and audio engineering as well as building Preamps and Microphones.
